@@ -11,7 +11,3 @@ table,th,td,tr{border-collapse: collapse;
 .blue{
 	background-color: blue;
 }
-#t-image img {
-            max-width: 100%;
-            height: auto;
-        }
